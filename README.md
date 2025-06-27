@@ -162,7 +162,3 @@ A: Check the following:
 A: Yes, just update the `host`, `port`, and credentials in the `SMTPSettings`.
 
 ---
-
-## 📬 Contact
-
-For questions or support, open an issue or email [you@example.com].
