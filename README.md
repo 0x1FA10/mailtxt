@@ -40,12 +40,6 @@ This project provides a simple Python interface for sending SMS messages using e
 - A valid SMTP account (e.g., Gmail)
 - Carrier that supports email-to-SMS (e.g., `number@vtext.com` for Verizon)
 
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## ⚙️ Configuration
