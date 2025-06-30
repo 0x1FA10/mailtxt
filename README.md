@@ -4,26 +4,13 @@ This project provides a simple Python interface for sending SMS messages using e
 
 ---
 
-## 🧰 Features
 
-- Send SMS messages via email using carrier gateways
-- Configurable SMTP and SMS settings
-- Secure authentication using environment variables or config classes
-- Simple API with `SMSMailer.send_sms()`
-
----
 
 ## 📦 Requirements
 
 - Python 3.7+
 - A valid SMTP account (e.g., Gmail)
 - Carrier that supports email-to-SMS (e.g., `number@vtext.com` for Verizon)
-
-# 📬 Email-to-SMS Gateway via SMTP
-
-This project provides a simple Python interface for sending SMS messages using email-to-SMS gateways via a configurable SMTP client. It’s useful for sending alerts, notifications, or messages to mobile phones from internal applications.
-
----
 
 ## 🧰 Features
 
